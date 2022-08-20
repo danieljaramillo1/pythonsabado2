@@ -1,2 +1,3 @@
-# pythonsabado2
-condicionales multiples
+# NUEVAS TECNOLOGIAS
+## CODED BY JARA
+condicionales multiples CLASE 3 AGOSTO 20.
